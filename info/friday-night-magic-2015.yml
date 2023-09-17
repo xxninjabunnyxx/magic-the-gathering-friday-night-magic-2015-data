@@ -1,0 +1,17 @@
+---
+object: set
+id: b34e3169-310e-4161-82c8-868b38b9cc91
+code: f15
+name: Friday Night Magic 2015
+uri: https://api.scryfall.com/sets/b34e3169-310e-4161-82c8-868b38b9cc91
+scryfall_uri: https://scryfall.com/sets/f15
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af15&unique=prints
+released_at: '2015-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800
